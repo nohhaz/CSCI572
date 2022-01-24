@@ -22,7 +22,7 @@ title: Dr. Noha Hazzazi
 email: noha.hazzazi@howard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Howard University CSCI-572 Class.
-baseurl: "www.hazz.info" # the subpath of your site, e.g. /blog
+baseurl: "CSCI572" # the subpath of your site, e.g. /blog
  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
